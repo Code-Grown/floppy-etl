@@ -1,0 +1,25 @@
+# RUNNERS
+# All configured commands to run in specific times, specifically between 4:00 7:00 AM
+# Example
+# proc -> procExample · At 01:00.
+# 0 1 * * * root /usr/local/bin/python /usr/local/bin/etl -proc >> /var/log/cron.log 2>&1
+
+# HEALTH CHECKS
+# Warn if any prevents that the process run correctly
+
+# hc -> healtcheck · At every 30th minute (for normal monitoring).
+# */30 * * * * root /usr/local/bin/python /usr/local/bin/etl -hc >> /var/log/cron.log 2>&1
+
+# hc -> healtcheck · At every 5th minute (for better monitoring).
+# */5 * * * * root /usr/local/bin/python /usr/local/bin/etl -hc >> /var/log/cron.log 2>&1
+
+# CLEANERS
+# Before the process runs, clean all files and logs
+
+# Prod log cleaner process
+# 0 0 * * * root cat /dev/null > /app/storage/logs/critical.log >> /var/log/cron.log 2>&1
+# 0 0 * * * root cat /dev/null > /app/storage/logs/danger.log >> /var/log/cron.log 2>&1
+# 0 0 * * * root cat /dev/null > /app/storage/logs/debug.log >> /var/log/cron.log 2>&1
+# 0 0 * * * root cat /dev/null > /app/storage/logs/info.log >> /var/log/cron.log 2>&1
+# 0 0 * * * root cat /dev/null > /app/storage/logs/success.log >> /var/log/cron.log 2>&1
+# 0 0 * * * root cat /dev/null > /app/storage/logs/warning.log >> /var/log/cron.log 2>&1

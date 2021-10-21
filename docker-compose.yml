@@ -1,0 +1,26 @@
+# Compose Rules Version
+version: '3.6'
+
+#Docker Services
+services:
+    floppy_etl_dev:
+        container_name: floppy_etl_dev
+        volumes:
+            - ./app:/app
+        build:
+            context: .
+            dockerfile: dockerfiles/FloppyEtlDev.Dockerfile
+        tty: true
+        env_file:
+            - .env.dev
+
+    floppy_etl_prod:
+        container_name: floppy_etl_prod
+        volumes:
+            - ./app:/app
+        build:
+            context: .
+            dockerfile: dockerfiles/FloppyEtl.Dockerfile
+        tty: true
+        env_file:
+            - .env.prod

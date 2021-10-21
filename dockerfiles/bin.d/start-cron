@@ -1,0 +1,6 @@
+#!/bin/sh
+# Config env vars to cron can read it
+env >> /etc/environment
+# Init cron service
+/usr/sbin/cron -f
+/etc/init.d/cron restart
