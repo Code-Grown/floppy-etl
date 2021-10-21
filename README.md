@@ -26,7 +26,7 @@ Plataforma, Framework o Lenguajes de Programación/BBDD y Requisitos:
 - [x] Python 3.9.7^
 - [x] MongoDB *3.x^
 - [x] Mysql *5.7.x^
-- [x] PostgreSQL *5.7.x^
+- [x] PostgreSQL *11.x^
 - [x] Docker y Docker Compose
 - [x] Crear una copia del archivo .env para crear el .env.dev o .env.prod (variables de entorno) proveída por el desarrollo
 - [x] Tener corriendo en una instancia local la base de datos Mysql, Mongo, PostgreSQL ó a través de una conexión remota (vps, servidor, rds, etc)
