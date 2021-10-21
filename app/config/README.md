@@ -1,0 +1,1 @@
+Here listed all configurations that the user (dev) can edit or develop for extensibles customizations

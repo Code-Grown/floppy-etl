@@ -1,0 +1,802 @@
+[17/09/2021 00:00:02] - [INFO ] - Init Application, reading arguments. 
+[17/09/2021 00:00:02] - [INFO ] - Application Ended. 
+[17/09/2021 00:00:02] - [INFO ] - System info: None 
+[17/09/2021 00:01:01] - [INFO ] - Init Application, reading arguments. 
+[17/09/2021 00:01:01] - [INFO ] - [CalculateUserUpdateTracking] Buscando total usuarios 
+[17/09/2021 00:01:06] - [INFO ] - Application Ended. 
+[17/09/2021 00:01:06] - [INFO ] - System info: None 
+[17/09/2021 00:05:01] - [INFO ] - Init Application, reading arguments. 
+[17/09/2021 00:05:01] - [INFO ] - Application Ended. 
+[17/09/2021 00:05:01] - [INFO ] - System info: None 
+[17/09/2021 00:10:02] - [INFO ] - Init Application, reading arguments. 
+[17/09/2021 00:10:02] - [INFO ] - Application Ended. 
+[17/09/2021 00:10:02] - [INFO ] - System info: None 
+[17/09/2021 00:15:01] - [INFO ] - Init Application, reading arguments. 
+[17/09/2021 00:15:01] - [INFO ] - Application Ended. 
+[17/09/2021 00:15:01] - [INFO ] - System info: None 
+[17/09/2021 00:20:01] - [INFO ] - Init Application, reading arguments. 
+[17/09/2021 00:20:01] - [INFO ] - Application Ended. 
+[17/09/2021 00:20:01] - [INFO ] - System info: None 
+[17/09/2021 00:25:02] - [INFO ] - Init Application, reading arguments. 
+[17/09/2021 00:25:02] - [INFO ] - Application Ended. 
+[17/09/2021 00:25:02] - [INFO ] - System info: None 
+[17/09/2021 00:30:01] - [INFO ] - Init Application, reading arguments. 
+[17/09/2021 00:30:01] - [INFO ] - Application Ended. 
+[17/09/2021 00:30:01] - [INFO ] - System info: None 
+[17/09/2021 00:35:01] - [INFO ] - Init Application, reading arguments. 
+[17/09/2021 00:35:01] - [INFO ] - Application Ended. 
+[17/09/2021 00:35:01] - [INFO ] - System info: None 
+[17/09/2021 00:40:01] - [INFO ] - Init Application, reading arguments. 
+[17/09/2021 00:40:01] - [INFO ] - Application Ended. 
+[17/09/2021 00:40:01] - [INFO ] - System info: None 
+[17/09/2021 00:45:02] - [INFO ] - Init Application, reading arguments. 
+[17/09/2021 00:45:02] - [INFO ] - Application Ended. 
+[17/09/2021 00:45:02] - [INFO ] - System info: None 
+[17/09/2021 00:50:01] - [INFO ] - Init Application, reading arguments. 
+[17/09/2021 00:50:01] - [INFO ] - Application Ended. 
+[17/09/2021 00:50:01] - [INFO ] - System info: None 
+[17/09/2021 00:55:01] - [INFO ] - Init Application, reading arguments. 
+[17/09/2021 00:55:01] - [INFO ] - Application Ended. 
+[17/09/2021 00:55:01] - [INFO ] - System info: None 
+[17/09/2021 01:00:01] - [INFO ] - Init Application, reading arguments. 
+[17/09/2021 01:00:01] - [INFO ] - Init Application, reading arguments. 
+[17/09/2021 01:00:01] - [INFO ] - [CalculateUsedSmsPerDay] Solicitando balance a la API. 
+[17/09/2021 01:00:01] - [INFO ] - Application Ended. 
+[17/09/2021 01:00:01] - [INFO ] - System info: None 
+[17/09/2021 01:00:05] - [INFO ] - [CalculateUsedSmsPerDay] Buscando balance de ayer y calculando uso del día. 
+[17/09/2021 01:00:05] - [INFO ] - [CalculateUsedSmsPerDay] Mensajes usados hoy: 250. 
+[17/09/2021 01:00:06] - [INFO ] - [CalculateUsedSmsPerDay] Actualizando valores en la base de datos. 
+[17/09/2021 01:00:08] - [INFO ] - Application Ended. 
+[17/09/2021 01:00:08] - [INFO ] - System info: None 
+[17/09/2021 01:01:01] - [INFO ] - Init Application, reading arguments. 
+[17/09/2021 01:01:01] - [INFO ] - [CalculateUserUpdateTracking] Buscando total usuarios 
+[17/09/2021 01:01:07] - [INFO ] - Application Ended. 
+[17/09/2021 01:01:07] - [INFO ] - System info: None 
+[17/09/2021 01:05:02] - [INFO ] - Init Application, reading arguments. 
+[17/09/2021 01:05:02] - [INFO ] - Application Ended. 
+[17/09/2021 01:05:02] - [INFO ] - System info: None 
+[17/09/2021 01:10:01] - [INFO ] - Init Application, reading arguments. 
+[17/09/2021 01:10:01] - [INFO ] - Application Ended. 
+[17/09/2021 01:10:01] - [INFO ] - System info: None 
+[17/09/2021 01:15:01] - [INFO ] - Init Application, reading arguments. 
+[17/09/2021 01:15:01] - [INFO ] - Application Ended. 
+[17/09/2021 01:15:01] - [INFO ] - System info: None 
+[17/09/2021 01:20:01] - [INFO ] - Init Application, reading arguments. 
+[17/09/2021 01:20:01] - [INFO ] - Application Ended. 
+[17/09/2021 01:20:01] - [INFO ] - System info: None 
+[17/09/2021 01:25:02] - [INFO ] - Init Application, reading arguments. 
+[17/09/2021 01:25:02] - [INFO ] - Application Ended. 
+[17/09/2021 01:25:02] - [INFO ] - System info: None 
+[17/09/2021 01:30:01] - [INFO ] - Init Application, reading arguments. 
+[17/09/2021 01:30:01] - [INFO ] - Application Ended. 
+[17/09/2021 01:30:01] - [INFO ] - System info: None 
+[17/09/2021 01:35:01] - [INFO ] - Init Application, reading arguments. 
+[17/09/2021 01:35:01] - [INFO ] - Application Ended. 
+[17/09/2021 01:35:01] - [INFO ] - System info: None 
+[17/09/2021 01:40:02] - [INFO ] - Init Application, reading arguments. 
+[17/09/2021 01:40:02] - [INFO ] - Application Ended. 
+[17/09/2021 01:40:02] - [INFO ] - System info: None 
+[17/09/2021 01:45:01] - [INFO ] - Init Application, reading arguments. 
+[17/09/2021 01:45:01] - [INFO ] - Application Ended. 
+[17/09/2021 01:45:01] - [INFO ] - System info: None 
+[17/09/2021 01:50:01] - [INFO ] - Init Application, reading arguments. 
+[17/09/2021 01:50:01] - [INFO ] - Application Ended. 
+[17/09/2021 01:50:01] - [INFO ] - System info: None 
+[17/09/2021 19:35:31] - [INFO ] - Init Application, reading arguments. 
+[17/09/2021 19:35:31] - [INFO ] - Application Ended. 
+[17/09/2021 19:35:31] - [INFO ] - System info: None 
+[17/09/2021 19:40:02] - [INFO ] - Init Application, reading arguments. 
+[17/09/2021 19:40:02] - [INFO ] - Application Ended. 
+[17/09/2021 19:40:02] - [INFO ] - System info: None 
+[17/09/2021 19:45:01] - [INFO ] - Init Application, reading arguments. 
+[17/09/2021 19:45:01] - [INFO ] - Application Ended. 
+[17/09/2021 19:45:01] - [INFO ] - System info: None 
+[17/09/2021 19:50:02] - [INFO ] - Init Application, reading arguments. 
+[17/09/2021 19:50:02] - [INFO ] - Application Ended. 
+[17/09/2021 19:50:02] - [INFO ] - System info: None 
+[17/09/2021 19:55:02] - [INFO ] - Init Application, reading arguments. 
+[17/09/2021 19:55:02] - [INFO ] - Application Ended. 
+[17/09/2021 19:55:02] - [INFO ] - System info: None 
+[17/09/2021 20:00:02] - [INFO ] - Init Application, reading arguments. 
+[17/09/2021 20:00:02] - [INFO ] - Application Ended. 
+[17/09/2021 20:00:02] - [INFO ] - System info: None 
+[17/09/2021 20:01:01] - [INFO ] - Init Application, reading arguments. 
+[17/09/2021 20:01:01] - [INFO ] - [CalculateUserUpdateTracking] Buscando total usuarios 
+[17/09/2021 20:01:05] - [INFO ] - Application Ended. 
+[17/09/2021 20:01:05] - [INFO ] - System info: None 
+[17/09/2021 20:05:02] - [INFO ] - Init Application, reading arguments. 
+[17/09/2021 20:05:02] - [INFO ] - Application Ended. 
+[17/09/2021 20:05:02] - [INFO ] - System info: None 
+[17/09/2021 20:10:01] - [INFO ] - Init Application, reading arguments. 
+[17/09/2021 20:10:01] - [INFO ] - Application Ended. 
+[17/09/2021 20:10:01] - [INFO ] - System info: None 
+[17/09/2021 20:15:02] - [INFO ] - Init Application, reading arguments. 
+[17/09/2021 20:15:02] - [INFO ] - Application Ended. 
+[17/09/2021 20:15:02] - [INFO ] - System info: None 
+[17/09/2021 20:20:01] - [INFO ] - Init Application, reading arguments. 
+[17/09/2021 20:20:01] - [INFO ] - Application Ended. 
+[17/09/2021 20:20:01] - [INFO ] - System info: None 
+[17/09/2021 20:25:02] - [INFO ] - Init Application, reading arguments. 
+[17/09/2021 20:25:02] - [INFO ] - Application Ended. 
+[17/09/2021 20:25:02] - [INFO ] - System info: None 
+[17/09/2021 20:30:01] - [INFO ] - Init Application, reading arguments. 
+[17/09/2021 20:30:01] - [INFO ] - Application Ended. 
+[17/09/2021 20:30:01] - [INFO ] - System info: None 
+[17/09/2021 20:35:01] - [INFO ] - Init Application, reading arguments. 
+[17/09/2021 20:35:01] - [INFO ] - Application Ended. 
+[17/09/2021 20:35:01] - [INFO ] - System info: None 
+[13/10/2021 01:56:34] - [INFO ] - Init Application, reading arguments. 
+[13/10/2021 01:56:34] - [INFO ] - Application Ended. 
+[13/10/2021 01:56:34] - [INFO ] - System info: None 
+[13/10/2021 01:56:37] - [INFO ] - Init Application, reading arguments. 
+[13/10/2021 01:56:37] - [INFO ] - Application Ended. 
+[13/10/2021 01:56:37] - [INFO ] - System info: None 
+[13/10/2021 01:57:06] - [INFO ] - Init Application, reading arguments. 
+[13/10/2021 01:57:06] - [INFO ] - Application Ended. 
+[13/10/2021 01:57:06] - [INFO ] - System info: None 
+[13/10/2021 03:05:31] - [INFO ] - Init Application, reading arguments. 
+[13/10/2021 03:05:31] - [INFO ] - Application Ended. 
+[13/10/2021 03:05:31] - [INFO ] - System info: None 
+[13/10/2021 03:05:33] - [INFO ] - Init Application, reading arguments. 
+[13/10/2021 03:05:40] - [INFO ] - Intentando conectar 
+[13/10/2021 03:05:40] - [INFO ] - Cadena de conexión identificada 
+[13/10/2021 03:05:40] - [INFO ] - Cliente ok 
+[13/10/2021 03:05:40] - [INFO ] - Conexion ok 
+[13/10/2021 03:05:40] - [INFO ] - Verificando estado del servidor 
+[13/10/2021 03:05:41] - [INFO ] - Error, No fue posible conectar al servidor en el healthcheck 
+[13/10/2021 03:05:41] - [INFO ] - [HealthCheck] No Conectando a Mysql 
+[13/10/2021 03:05:41] - [INFO ] - [HealthCheck] No Conectando a MongoDB 
+[13/10/2021 03:05:42] - [INFO ] - [Email] El Email Reporte de Estado de Salud del Servicio 13/10/2021 03:05:33 no se envió. 
+[13/10/2021 03:05:42] - [INFO ] - Application Ended. 
+[13/10/2021 03:05:42] - [INFO ] - System info: None 
+[13/10/2021 03:06:02] - [INFO ] - Init Application, reading arguments. 
+[13/10/2021 03:06:05] - [INFO ] - Intentando conectar 
+[13/10/2021 03:06:05] - [INFO ] - Cadena de conexión identificada 
+[13/10/2021 03:06:05] - [INFO ] - Cliente ok 
+[13/10/2021 03:06:05] - [INFO ] - Conexion ok 
+[13/10/2021 03:06:05] - [INFO ] - Verificando estado del servidor 
+[13/10/2021 03:06:09] - [INFO ] - Error, No fue posible conectar al servidor en el healthcheck 
+[13/10/2021 03:06:09] - [INFO ] - [HealthCheck] No Conectando a Mysql 
+[13/10/2021 03:06:09] - [INFO ] - [HealthCheck] No Conectando a MongoDB 
+[13/10/2021 03:06:09] - [INFO ] - [Email] Email Reporte de Estado de Salud del Servicio 13/10/2021 03:06:02 Enviado. 
+[13/10/2021 03:06:09] - [INFO ] - Application Ended. 
+[13/10/2021 03:06:09] - [INFO ] - System info: None 
+[19/10/2021 10:53:21] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 10:53:21] - [INFO ] - Application Ended. 
+[19/10/2021 10:53:21] - [INFO ] - System info: None 
+[19/10/2021 10:53:26] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 10:53:26] - [INFO ] - Application Ended. 
+[19/10/2021 10:53:26] - [INFO ] - System info: None 
+[19/10/2021 14:08:58] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 14:08:58] - [INFO ] - Application Ended. 
+[19/10/2021 14:08:58] - [INFO ] - System info: None 
+[19/10/2021 14:17:33] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 14:17:33] - [INFO ] - Application Ended. 
+[19/10/2021 14:17:33] - [INFO ] - System info: None 
+[19/10/2021 14:18:16] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 14:18:16] - [INFO ] - Application Ended. 
+[19/10/2021 14:18:16] - [INFO ] - System info: None 
+[19/10/2021 15:29:06] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 15:29:06] - [INFO ] - Application Ended. 
+[19/10/2021 15:29:06] - [INFO ] - System info: None 
+[19/10/2021 15:29:33] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 15:29:33] - [INFO ] - Application Ended. 
+[19/10/2021 15:29:33] - [INFO ] - System info: None 
+[19/10/2021 15:31:43] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 15:31:44] - [INFO ] - Application Ended. 
+[19/10/2021 15:31:44] - [INFO ] - System info: None 
+[19/10/2021 15:31:57] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 15:31:57] - [INFO ] - Application Ended. 
+[19/10/2021 15:31:57] - [INFO ] - System info: None 
+[19/10/2021 15:33:46] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 15:33:46] - [INFO ] - Application Ended. 
+[19/10/2021 15:33:46] - [INFO ] - System info: None 
+[19/10/2021 15:37:06] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 15:37:06] - [INFO ] - Application Ended. 
+[19/10/2021 15:37:06] - [INFO ] - System info: None 
+[19/10/2021 15:44:02] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 15:44:02] - [INFO ] - Application Ended. 
+[19/10/2021 15:44:02] - [INFO ] - System info: None 
+[19/10/2021 15:44:06] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 15:44:06] - [INFO ] - Application Ended. 
+[19/10/2021 15:44:06] - [INFO ] - System info: None 
+[19/10/2021 15:45:03] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 15:45:03] - [INFO ] - Application Ended. 
+[19/10/2021 15:45:03] - [INFO ] - System info: None 
+[19/10/2021 15:45:04] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 15:45:04] - [INFO ] - Application Ended. 
+[19/10/2021 15:45:04] - [INFO ] - System info: None 
+[19/10/2021 15:46:29] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 15:46:29] - [INFO ] - Application Ended. 
+[19/10/2021 15:46:29] - [INFO ] - System info: None 
+[19/10/2021 15:46:41] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 15:46:41] - [INFO ] - Application Ended. 
+[19/10/2021 15:46:41] - [INFO ] - System info: None 
+[19/10/2021 15:47:30] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 15:47:30] - [INFO ] - Application Ended. 
+[19/10/2021 15:47:30] - [INFO ] - System info: None 
+[19/10/2021 15:54:11] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 15:54:11] - [INFO ] - Application Ended. 
+[19/10/2021 15:54:11] - [INFO ] - System info: None 
+[19/10/2021 17:02:04] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 17:02:04] - [INFO ] - Application Ended. 
+[19/10/2021 17:02:04] - [INFO ] - System info: None 
+[19/10/2021 17:07:11] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 17:07:11] - [INFO ] - Application Ended. 
+[19/10/2021 17:07:11] - [INFO ] - System info: None 
+[19/10/2021 17:07:14] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 17:07:14] - [INFO ] - Application Ended. 
+[19/10/2021 17:07:14] - [INFO ] - System info: None 
+[19/10/2021 17:14:24] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 17:14:24] - [INFO ] - Application Ended. 
+[19/10/2021 17:14:24] - [INFO ] - System info: None 
+[19/10/2021 17:15:26] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 17:15:26] - [INFO ] - Application Ended. 
+[19/10/2021 17:15:26] - [INFO ] - System info: None 
+[19/10/2021 17:16:27] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 17:16:27] - [INFO ] - Application Ended. 
+[19/10/2021 17:16:27] - [INFO ] - System info: None 
+[19/10/2021 17:17:11] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 17:17:11] - [INFO ] - Application Ended. 
+[19/10/2021 17:17:11] - [INFO ] - System info: None 
+[19/10/2021 17:18:46] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 17:18:46] - [INFO ] - Application Ended. 
+[19/10/2021 17:18:46] - [INFO ] - System info: None 
+[19/10/2021 17:19:06] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 17:19:06] - [INFO ] - Application Ended. 
+[19/10/2021 17:19:06] - [INFO ] - System info: None 
+[19/10/2021 17:19:54] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 17:19:54] - [INFO ] - Application Ended. 
+[19/10/2021 17:19:54] - [INFO ] - System info: None 
+[19/10/2021 17:20:07] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 17:20:07] - [INFO ] - Application Ended. 
+[19/10/2021 17:20:07] - [INFO ] - System info: None 
+[19/10/2021 17:20:12] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 17:20:12] - [INFO ] - Application Ended. 
+[19/10/2021 17:20:12] - [INFO ] - System info: None 
+[19/10/2021 17:20:34] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 17:20:34] - [INFO ] - Application Ended. 
+[19/10/2021 17:20:34] - [INFO ] - System info: None 
+[19/10/2021 17:20:46] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 17:20:46] - [INFO ] - Application Ended. 
+[19/10/2021 17:20:46] - [INFO ] - System info: None 
+[19/10/2021 17:21:35] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 17:21:35] - [INFO ] - Application Ended. 
+[19/10/2021 17:21:35] - [INFO ] - System info: None 
+[19/10/2021 17:22:39] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 17:22:39] - [INFO ] - Application Ended. 
+[19/10/2021 17:22:39] - [INFO ] - System info: None 
+[19/10/2021 17:22:47] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 17:22:47] - [INFO ] - Application Ended. 
+[19/10/2021 17:22:47] - [INFO ] - System info: None 
+[19/10/2021 17:23:51] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 17:23:51] - [INFO ] - Application Ended. 
+[19/10/2021 17:23:51] - [INFO ] - System info: None 
+[19/10/2021 17:24:01] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 17:24:01] - [INFO ] - Application Ended. 
+[19/10/2021 17:24:01] - [INFO ] - System info: None 
+[19/10/2021 17:25:49] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 17:25:49] - [INFO ] - Application Ended. 
+[19/10/2021 17:25:49] - [INFO ] - System info: None 
+[19/10/2021 17:49:17] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 17:49:17] - [INFO ] - Application Ended. 
+[19/10/2021 17:49:17] - [INFO ] - System info: None 
+[19/10/2021 17:49:24] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 17:49:24] - [INFO ] - Application Ended. 
+[19/10/2021 17:49:24] - [INFO ] - System info: None 
+[19/10/2021 17:49:27] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 17:49:27] - [INFO ] - Application Ended. 
+[19/10/2021 17:49:27] - [INFO ] - System info: None 
+[19/10/2021 17:49:40] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 17:49:40] - [INFO ] - Application Ended. 
+[19/10/2021 17:49:40] - [INFO ] - System info: None 
+[19/10/2021 17:49:43] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 17:49:43] - [INFO ] - Application Ended. 
+[19/10/2021 17:49:43] - [INFO ] - System info: None 
+[19/10/2021 17:53:32] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 17:53:32] - [INFO ] - Application Ended. 
+[19/10/2021 17:53:32] - [INFO ] - System info: None 
+[19/10/2021 17:53:35] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 17:53:35] - [INFO ] - Application Ended. 
+[19/10/2021 17:53:35] - [INFO ] - System info: None 
+[19/10/2021 17:56:03] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 17:56:03] - [INFO ] - Application Ended. 
+[19/10/2021 17:56:03] - [INFO ] - System info: None 
+[19/10/2021 17:56:06] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 17:56:06] - [INFO ] - Application Ended. 
+[19/10/2021 17:56:06] - [INFO ] - System info: None 
+[19/10/2021 17:58:48] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 17:58:48] - [INFO ] - Application Ended. 
+[19/10/2021 17:58:48] - [INFO ] - System info: None 
+[19/10/2021 17:58:55] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 17:58:55] - [INFO ] - Application Ended. 
+[19/10/2021 17:58:55] - [INFO ] - System info: None 
+[19/10/2021 18:05:49] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 18:05:49] - [INFO ] - Application Ended. 
+[19/10/2021 18:05:49] - [INFO ] - System info: None 
+[19/10/2021 18:06:05] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 18:06:05] - [INFO ] - Application Ended. 
+[19/10/2021 18:06:05] - [INFO ] - System info: None 
+[19/10/2021 18:06:13] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 18:06:13] - [INFO ] - Application Ended. 
+[19/10/2021 18:06:13] - [INFO ] - System info: None 
+[19/10/2021 18:06:24] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 18:06:24] - [INFO ] - Application Ended. 
+[19/10/2021 18:06:24] - [INFO ] - System info: None 
+[19/10/2021 18:06:51] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 18:06:51] - [INFO ] - Application Ended. 
+[19/10/2021 18:06:51] - [INFO ] - System info: None 
+[19/10/2021 18:08:01] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 18:08:01] - [INFO ] - Application Ended. 
+[19/10/2021 18:08:01] - [INFO ] - System info: None 
+[19/10/2021 18:09:25] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 18:09:25] - [INFO ] - Application Ended. 
+[19/10/2021 18:09:25] - [INFO ] - System info: None 
+[19/10/2021 18:09:33] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 18:09:33] - [INFO ] - Application Ended. 
+[19/10/2021 18:09:33] - [INFO ] - System info: None 
+[19/10/2021 18:10:41] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 18:10:41] - [INFO ] - Application Ended. 
+[19/10/2021 18:10:41] - [INFO ] - System info: None 
+[19/10/2021 18:11:16] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 18:11:16] - [INFO ] - Application Ended. 
+[19/10/2021 18:11:16] - [INFO ] - System info: None 
+[19/10/2021 18:12:00] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 18:12:00] - [INFO ] - Application Ended. 
+[19/10/2021 18:12:00] - [INFO ] - System info: None 
+[19/10/2021 18:13:06] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 18:13:06] - [INFO ] - Application Ended. 
+[19/10/2021 18:13:06] - [INFO ] - System info: None 
+[19/10/2021 18:14:02] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 18:14:02] - [INFO ] - Application Ended. 
+[19/10/2021 18:14:02] - [INFO ] - System info: None 
+[19/10/2021 18:17:14] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 18:17:14] - [INFO ] - Application Ended. 
+[19/10/2021 18:17:14] - [INFO ] - System info: None 
+[19/10/2021 18:18:01] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 18:18:01] - [INFO ] - Application Ended. 
+[19/10/2021 18:18:01] - [INFO ] - System info: None 
+[19/10/2021 18:18:33] - [INFO ] - Init Application, reading arguments. 
+[19/10/2021 18:18:33] - [INFO ] - Application Ended. 
+[19/10/2021 18:18:33] - [INFO ] - System info: None 
+[20/10/2021 15:59:56] - [INFO ] - Init Application, reading arguments. 
+[20/10/2021 15:59:56] - [INFO ] - Application Ended. 
+[20/10/2021 15:59:56] - [INFO ] - System info: None 
+[20/10/2021 16:00:03] - [INFO ] - Init Application, reading arguments. 
+[20/10/2021 16:00:03] - [INFO ] - Application Ended. 
+[20/10/2021 16:00:03] - [INFO ] - System info: None 
+[20/10/2021 16:00:36] - [INFO ] - Init Application, reading arguments. 
+[20/10/2021 16:00:36] - [INFO ] - Application Ended. 
+[20/10/2021 16:00:36] - [INFO ] - System info: None 
+[20/10/2021 16:00:46] - [INFO ] - Init Application, reading arguments. 
+[20/10/2021 16:00:46] - [INFO ] - Application Ended. 
+[20/10/2021 16:00:46] - [INFO ] - System info: None 
+[20/10/2021 16:00:49] - [INFO ] - Init Application, reading arguments. 
+[20/10/2021 16:00:49] - [INFO ] - Application Ended. 
+[20/10/2021 16:00:49] - [INFO ] - System info: None 
+[20/10/2021 16:01:09] - [INFO ] - Init Application, reading arguments. 
+[20/10/2021 16:01:09] - [INFO ] - Application Ended. 
+[20/10/2021 16:01:09] - [INFO ] - System info: None 
+[20/10/2021 16:01:12] - [INFO ] - Init Application, reading arguments. 
+[20/10/2021 16:01:12] - [INFO ] - Application Ended. 
+[20/10/2021 16:01:12] - [INFO ] - System info: None 
+[20/10/2021 16:01:18] - [INFO ] - Init Application, reading arguments. 
+[20/10/2021 16:01:18] - [INFO ] - Application Ended. 
+[20/10/2021 16:01:18] - [INFO ] - System info: None 
+[20/10/2021 16:01:59] - [INFO ] - Init Application, reading arguments. 
+[20/10/2021 16:01:59] - [INFO ] - Application Ended. 
+[20/10/2021 16:01:59] - [INFO ] - System info: None 
+[20/10/2021 16:02:57] - [INFO ] - Init Application, reading arguments. 
+[20/10/2021 16:02:57] - [INFO ] - Application Ended. 
+[20/10/2021 16:02:57] - [INFO ] - System info: None 
+[20/10/2021 16:03:07] - [INFO ] - Init Application, reading arguments. 
+[20/10/2021 16:03:07] - [INFO ] - Application Ended. 
+[20/10/2021 16:03:07] - [INFO ] - System info: None 
+[20/10/2021 16:03:17] - [INFO ] - Init Application, reading arguments. 
+[20/10/2021 16:03:17] - [INFO ] - Application Ended. 
+[20/10/2021 16:03:17] - [INFO ] - System info: None 
+[20/10/2021 16:03:31] - [INFO ] - Init Application, reading arguments. 
+[20/10/2021 16:03:31] - [INFO ] - Application Ended. 
+[20/10/2021 16:03:31] - [INFO ] - System info: None 
+[20/10/2021 18:13:12] - [INFO ] - Init Application, reading arguments. 
+[20/10/2021 18:13:12] - [INFO ] - Application Ended. 
+[20/10/2021 18:13:12] - [INFO ] - System info: None 
+[20/10/2021 18:13:17] - [INFO ] - Init Application, reading arguments. 
+[20/10/2021 18:13:17] - [INFO ] - Application Ended. 
+[20/10/2021 18:13:17] - [INFO ] - System info: None 
+[20/10/2021 18:13:38] - [INFO ] - Init Application, reading arguments. 
+[20/10/2021 18:13:38] - [INFO ] - Application Ended. 
+[20/10/2021 18:13:38] - [INFO ] - System info: None 
+[20/10/2021 18:13:41] - [INFO ] - Init Application, reading arguments. 
+[20/10/2021 18:13:41] - [INFO ] - Application Ended. 
+[20/10/2021 18:13:41] - [INFO ] - System info: None 
+[20/10/2021 18:14:04] - [INFO ] - Init Application, reading arguments. 
+[20/10/2021 18:14:04] - [INFO ] - Application Ended. 
+[20/10/2021 18:14:04] - [INFO ] - System info: None 
+[20/10/2021 18:14:44] - [INFO ] - Init Application, reading arguments. 
+[20/10/2021 18:14:44] - [INFO ] - Application Ended. 
+[20/10/2021 18:14:44] - [INFO ] - System info: None 
+[20/10/2021 18:18:01] - [INFO ] - Init Application, reading arguments. 
+[20/10/2021 18:18:01] - [INFO ] - Application Ended. 
+[20/10/2021 18:18:01] - [INFO ] - System info: None 
+[20/10/2021 18:18:03] - [INFO ] - Init Application, reading arguments. 
+[20/10/2021 18:18:03] - [INFO ] - Application Ended. 
+[20/10/2021 18:18:03] - [INFO ] - System info: None 
+[20/10/2021 18:18:05] - [INFO ] - Init Application, reading arguments. 
+[20/10/2021 18:18:05] - [INFO ] - Application Ended. 
+[20/10/2021 18:18:05] - [INFO ] - System info: None 
+[20/10/2021 18:24:21] - [INFO ] - Init Application, reading arguments. 
+[20/10/2021 18:24:21] - [INFO ] - Application Ended. 
+[20/10/2021 18:24:21] - [INFO ] - System info: None 
+[20/10/2021 18:25:27] - [INFO ] - Init Application, reading arguments. 
+[20/10/2021 18:25:27] - [INFO ] - Application Ended. 
+[20/10/2021 18:25:27] - [INFO ] - System info: None 
+[20/10/2021 18:25:42] - [INFO ] - Init Application, reading arguments. 
+[20/10/2021 18:25:42] - [INFO ] - Application Ended. 
+[20/10/2021 18:25:42] - [INFO ] - System info: None 
+[20/10/2021 18:26:00] - [INFO ] - Init Application, reading arguments. 
+[20/10/2021 18:26:00] - [INFO ] - Application Ended. 
+[20/10/2021 18:26:00] - [INFO ] - System info: None 
+[20/10/2021 18:26:35] - [INFO ] - Init Application, reading arguments. 
+[20/10/2021 18:26:35] - [INFO ] - Application Ended. 
+[20/10/2021 18:26:35] - [INFO ] - System info: None 
+[20/10/2021 18:27:55] - [INFO ] - Init Application, reading arguments. 
+[20/10/2021 18:27:55] - [INFO ] - Application Ended. 
+[20/10/2021 18:27:55] - [INFO ] - System info: None 
+[20/10/2021 18:28:14] - [INFO ] - Init Application, reading arguments. 
+[20/10/2021 18:28:14] - [INFO ] - Application Ended. 
+[20/10/2021 18:28:14] - [INFO ] - System info: None 
+[20/10/2021 18:28:24] - [INFO ] - Init Application, reading arguments. 
+[20/10/2021 18:28:24] - [INFO ] - Application Ended. 
+[20/10/2021 18:28:24] - [INFO ] - System info: None 
+[20/10/2021 18:28:43] - [INFO ] - Init Application, reading arguments. 
+[20/10/2021 18:28:43] - [INFO ] - Application Ended. 
+[20/10/2021 18:28:43] - [INFO ] - System info: None 
+[20/10/2021 18:29:10] - [INFO ] - Init Application, reading arguments. 
+[20/10/2021 18:29:10] - [INFO ] - Application Ended. 
+[20/10/2021 18:29:10] - [INFO ] - System info: None 
+[20/10/2021 18:29:23] - [INFO ] - Init Application, reading arguments. 
+[20/10/2021 18:29:23] - [INFO ] - Application Ended. 
+[20/10/2021 18:29:23] - [INFO ] - System info: None 
+[20/10/2021 18:29:48] - [INFO ] - Init Application, reading arguments. 
+[20/10/2021 18:29:48] - [INFO ] - Application Ended. 
+[20/10/2021 18:29:48] - [INFO ] - System info: None 
+[20/10/2021 18:30:23] - [INFO ] - Init Application, reading arguments. 
+[20/10/2021 18:30:23] - [INFO ] - Application Ended. 
+[20/10/2021 18:30:23] - [INFO ] - System info: None 
+[20/10/2021 18:30:42] - [INFO ] - Init Application, reading arguments. 
+[20/10/2021 18:30:42] - [INFO ] - Application Ended. 
+[20/10/2021 18:30:42] - [INFO ] - System info: None 
+[20/10/2021 18:33:40] - [INFO ] - Init Application, reading arguments. 
+[20/10/2021 18:33:40] - [INFO ] - Application Ended. 
+[20/10/2021 18:33:40] - [INFO ] - System info: None 
+[20/10/2021 18:33:42] - [INFO ] - Init Application, reading arguments. 
+[20/10/2021 18:33:42] - [INFO ] - Application Ended. 
+[20/10/2021 18:33:42] - [INFO ] - System info: None 
+[20/10/2021 18:34:41] - [INFO ] - Init Application, reading arguments. 
+[20/10/2021 18:34:41] - [INFO ] - Application Ended. 
+[20/10/2021 18:34:41] - [INFO ] - System info: None 
+[20/10/2021 18:34:47] - [INFO ] - Init Application, reading arguments. 
+[20/10/2021 18:34:47] - [INFO ] - Application Ended. 
+[20/10/2021 18:34:47] - [INFO ] - System info: None 
+[20/10/2021 18:34:49] - [INFO ] - Init Application, reading arguments. 
+[20/10/2021 18:34:49] - [INFO ] - Application Ended. 
+[20/10/2021 18:34:49] - [INFO ] - System info: None 
+[20/10/2021 18:35:28] - [INFO ] - Init Application, reading arguments. 
+[20/10/2021 18:35:28] - [INFO ] - Application Ended. 
+[20/10/2021 18:35:28] - [INFO ] - System info: None 
+[20/10/2021 18:35:29] - [INFO ] - Init Application, reading arguments. 
+[20/10/2021 18:35:29] - [INFO ] - Application Ended. 
+[20/10/2021 18:35:29] - [INFO ] - System info: None 
+[20/10/2021 18:39:21] - [INFO ] - Init Application, reading arguments. 
+[20/10/2021 18:39:21] - [INFO ] - Application Ended. 
+[20/10/2021 18:39:21] - [INFO ] - System info: None 
+[20/10/2021 18:39:23] - [INFO ] - Init Application, reading arguments. 
+[20/10/2021 18:39:23] - [INFO ] - Application Ended. 
+[20/10/2021 18:39:23] - [INFO ] - System info: None 
+[20/10/2021 18:39:30] - [INFO ] - Init Application, reading arguments. 
+[20/10/2021 18:39:30] - [INFO ] - Application Ended. 
+[20/10/2021 18:39:30] - [INFO ] - System info: None 
+[20/10/2021 18:39:32] - [INFO ] - Init Application, reading arguments. 
+[20/10/2021 18:39:32] - [INFO ] - Application Ended. 
+[20/10/2021 18:39:32] - [INFO ] - System info: None 
+[20/10/2021 18:39:33] - [INFO ] - Init Application, reading arguments. 
+[20/10/2021 18:39:33] - [INFO ] - Application Ended. 
+[20/10/2021 18:39:33] - [INFO ] - System info: None 
+[20/10/2021 18:39:36] - [INFO ] - Init Application, reading arguments. 
+[20/10/2021 18:39:36] - [INFO ] - Application Ended. 
+[20/10/2021 18:39:36] - [INFO ] - System info: None 
+[21/10/2021 10:49:53] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 10:49:53] - [INFO ] - Application Ended. 
+[21/10/2021 10:49:53] - [INFO ] - System info: None 
+[21/10/2021 10:49:57] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 10:49:57] - [INFO ] - Application Ended. 
+[21/10/2021 10:49:57] - [INFO ] - System info: None 
+[21/10/2021 10:50:07] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 10:50:07] - [INFO ] - Application Ended. 
+[21/10/2021 10:50:07] - [INFO ] - System info: None 
+[21/10/2021 10:50:11] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 10:50:11] - [INFO ] - Application Ended. 
+[21/10/2021 10:50:11] - [INFO ] - System info: None 
+[21/10/2021 10:50:13] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 10:50:13] - [INFO ] - Application Ended. 
+[21/10/2021 10:50:13] - [INFO ] - System info: None 
+[21/10/2021 10:50:21] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 10:50:21] - [INFO ] - Application Ended. 
+[21/10/2021 10:50:21] - [INFO ] - System info: None 
+[21/10/2021 10:50:33] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 10:50:33] - [INFO ] - Application Ended. 
+[21/10/2021 10:50:33] - [INFO ] - System info: None 
+[21/10/2021 10:50:35] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 10:50:35] - [INFO ] - Application Ended. 
+[21/10/2021 10:50:35] - [INFO ] - System info: None 
+[21/10/2021 10:50:48] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 10:50:48] - [INFO ] - Application Ended. 
+[21/10/2021 10:50:48] - [INFO ] - System info: None 
+[21/10/2021 10:50:50] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 10:50:50] - [INFO ] - Application Ended. 
+[21/10/2021 10:50:50] - [INFO ] - System info: None 
+[21/10/2021 10:50:52] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 10:50:52] - [INFO ] - Application Ended. 
+[21/10/2021 10:50:52] - [INFO ] - System info: None 
+[21/10/2021 10:50:54] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 10:50:54] - [INFO ] - Application Ended. 
+[21/10/2021 10:50:54] - [INFO ] - System info: None 
+[21/10/2021 10:51:01] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 10:51:01] - [INFO ] - Application Ended. 
+[21/10/2021 10:51:01] - [INFO ] - System info: None 
+[21/10/2021 10:51:03] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 10:51:03] - [INFO ] - Application Ended. 
+[21/10/2021 10:51:03] - [INFO ] - System info: None 
+[21/10/2021 10:51:46] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 10:51:46] - [INFO ] - Application Ended. 
+[21/10/2021 10:51:46] - [INFO ] - System info: None 
+[21/10/2021 10:51:49] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 10:51:49] - [INFO ] - Application Ended. 
+[21/10/2021 10:51:49] - [INFO ] - System info: None 
+[21/10/2021 10:51:54] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 10:51:54] - [INFO ] - Application Ended. 
+[21/10/2021 10:51:54] - [INFO ] - System info: None 
+[21/10/2021 10:52:00] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 10:52:00] - [INFO ] - Application Ended. 
+[21/10/2021 10:52:00] - [INFO ] - System info: None 
+[21/10/2021 10:52:02] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 10:52:02] - [INFO ] - Application Ended. 
+[21/10/2021 10:52:02] - [INFO ] - System info: None 
+[21/10/2021 10:52:06] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 10:52:06] - [INFO ] - Application Ended. 
+[21/10/2021 10:52:06] - [INFO ] - System info: None 
+[21/10/2021 10:52:57] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 10:52:57] - [INFO ] - Application Ended. 
+[21/10/2021 10:52:57] - [INFO ] - System info: <class 'SystemExit'> 
+[21/10/2021 10:53:07] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 10:53:07] - [INFO ] - Application Ended. 
+[21/10/2021 10:53:07] - [INFO ] - System info: None 
+[21/10/2021 10:53:13] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 10:53:13] - [INFO ] - Application Ended. 
+[21/10/2021 10:53:13] - [INFO ] - System info: <class 'SystemExit'> 
+[21/10/2021 10:53:35] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 10:53:35] - [INFO ] - Application Ended. 
+[21/10/2021 10:53:35] - [INFO ] - System info: <class 'SystemExit'> 
+[21/10/2021 10:53:44] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 10:53:44] - [INFO ] - Application Ended. 
+[21/10/2021 10:53:44] - [INFO ] - System info: <class 'SystemExit'> 
+[21/10/2021 10:54:01] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 10:54:01] - [INFO ] - Application Ended. 
+[21/10/2021 10:54:01] - [INFO ] - System info: <class 'SystemExit'> 
+[21/10/2021 10:54:03] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 10:54:03] - [INFO ] - Application Ended. 
+[21/10/2021 10:54:03] - [INFO ] - System info: <class 'SystemExit'> 
+[21/10/2021 10:54:12] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 10:54:12] - [INFO ] - Application Ended. 
+[21/10/2021 10:54:12] - [INFO ] - System info: <class 'SystemExit'> 
+[21/10/2021 10:55:22] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 10:55:22] - [INFO ] - Application Ended. 
+[21/10/2021 10:55:22] - [INFO ] - System info: <class 'SystemExit'> 
+[21/10/2021 10:55:29] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 10:55:29] - [INFO ] - Application Ended. 
+[21/10/2021 10:55:29] - [INFO ] - System info: None 
+[21/10/2021 10:55:31] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 10:55:31] - [INFO ] - Application Ended. 
+[21/10/2021 10:55:31] - [INFO ] - System info: None 
+[21/10/2021 10:55:46] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 10:55:46] - [INFO ] - Application Ended. 
+[21/10/2021 10:55:46] - [INFO ] - System info: None 
+[21/10/2021 10:56:05] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 10:56:05] - [INFO ] - Application Ended. 
+[21/10/2021 10:56:05] - [INFO ] - System info: <class 'SystemExit'> 
+[21/10/2021 10:56:59] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 10:56:59] - [INFO ] - Application Ended. 
+[21/10/2021 10:56:59] - [INFO ] - System info: None 
+[21/10/2021 10:58:09] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 10:58:10] - [INFO ] - Application Ended. 
+[21/10/2021 10:58:10] - [INFO ] - System info: None 
+[21/10/2021 11:01:14] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 11:01:14] - [INFO ] - Application Ended. 
+[21/10/2021 11:01:14] - [INFO ] - System info: None 
+[21/10/2021 11:05:27] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 11:05:28] - [INFO ] - Application Ended. 
+[21/10/2021 11:05:28] - [INFO ] - System info: None 
+[21/10/2021 11:05:43] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 11:05:43] - [INFO ] - Application Ended. 
+[21/10/2021 11:05:43] - [INFO ] - System info: None 
+[21/10/2021 11:05:45] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 11:05:45] - [INFO ] - Application Ended. 
+[21/10/2021 11:05:45] - [INFO ] - System info: None 
+[21/10/2021 11:05:51] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 11:05:51] - [INFO ] - Application Ended. 
+[21/10/2021 11:05:51] - [INFO ] - System info: None 
+[21/10/2021 11:06:12] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 11:06:12] - [INFO ] - Application Ended. 
+[21/10/2021 11:06:12] - [INFO ] - System info: None 
+[21/10/2021 11:06:32] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 11:06:32] - [INFO ] - Application Ended. 
+[21/10/2021 11:06:32] - [INFO ] - System info: None 
+[21/10/2021 11:06:48] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 11:06:48] - [INFO ] - Application Ended. 
+[21/10/2021 11:06:48] - [INFO ] - System info: None 
+[21/10/2021 11:07:06] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 11:07:16] - [INFO ] - Intentando conectar 
+[21/10/2021 11:07:16] - [INFO ] - Cadena de conexión identificada 
+[21/10/2021 11:07:17] - [INFO ] - Error, No fue posible conectar al servidor en el healthcheck 
+[21/10/2021 11:07:17] - [INFO ] - [HealthCheck] No Conectando a Mysql 
+[21/10/2021 11:07:17] - [INFO ] - [HealthCheck] No Conectando a MongoDB 
+[21/10/2021 11:07:27] - [INFO ] - [Email] El Email Reporte de Estado de Salud del Servicio 21/10/2021 11:07:06 no se envió. 
+[21/10/2021 11:07:27] - [INFO ] - Application Ended. 
+[21/10/2021 11:07:27] - [INFO ] - System info: None 
+[21/10/2021 11:07:38] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 11:07:38] - [INFO ] - Application Ended. 
+[21/10/2021 11:07:38] - [INFO ] - System info: None 
+[21/10/2021 11:08:08] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 11:08:08] - [INFO ] - Application Ended. 
+[21/10/2021 11:08:08] - [INFO ] - System info: None 
+[21/10/2021 11:08:17] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 11:08:17] - [INFO ] - Application Ended. 
+[21/10/2021 11:08:17] - [INFO ] - System info: None 
+[21/10/2021 11:08:44] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 11:08:44] - [INFO ] - Application Ended. 
+[21/10/2021 11:08:44] - [INFO ] - System info: None 
+[21/10/2021 11:09:12] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 11:09:12] - [INFO ] - Application Ended. 
+[21/10/2021 11:09:12] - [INFO ] - System info: None 
+[21/10/2021 11:09:51] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 11:09:51] - [INFO ] - Application Ended. 
+[21/10/2021 11:09:51] - [INFO ] - System info: None 
+[21/10/2021 11:09:53] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 11:09:53] - [INFO ] - Application Ended. 
+[21/10/2021 11:09:53] - [INFO ] - System info: None 
+[21/10/2021 11:10:04] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 11:10:04] - [INFO ] - Application Ended. 
+[21/10/2021 11:10:04] - [INFO ] - System info: None 
+[21/10/2021 11:10:08] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 11:10:08] - [INFO ] - Application Ended. 
+[21/10/2021 11:10:08] - [INFO ] - System info: None 
+[21/10/2021 11:10:14] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 11:10:14] - [INFO ] - Application Ended. 
+[21/10/2021 11:10:14] - [INFO ] - System info: None 
+[21/10/2021 11:10:18] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 11:10:18] - [INFO ] - Application Ended. 
+[21/10/2021 11:10:18] - [INFO ] - System info: None 
+[21/10/2021 11:11:48] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 11:11:48] - [INFO ] - Application Ended. 
+[21/10/2021 11:11:48] - [INFO ] - System info: None 
+[21/10/2021 11:22:30] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 11:22:30] - [INFO ] - Application Ended. 
+[21/10/2021 11:22:30] - [INFO ] - System info: None 
+[21/10/2021 11:22:33] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 11:22:33] - [INFO ] - Application Ended. 
+[21/10/2021 11:22:33] - [INFO ] - System info: None 
+[21/10/2021 11:23:10] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 11:23:10] - [INFO ] - Application Ended. 
+[21/10/2021 11:23:10] - [INFO ] - System info: None 
+[21/10/2021 11:23:14] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 11:23:14] - [INFO ] - Application Ended. 
+[21/10/2021 11:23:14] - [INFO ] - System info: None 
+[21/10/2021 11:30:07] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 11:30:07] - [INFO ] - Application Ended. 
+[21/10/2021 11:30:07] - [INFO ] - System info: None 
+[21/10/2021 11:55:07] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 11:55:07] - [INFO ] - Application Ended. 
+[21/10/2021 11:55:07] - [INFO ] - System info: None 
+[21/10/2021 12:01:48] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 12:01:48] - [INFO ] - Application Ended. 
+[21/10/2021 12:01:48] - [INFO ] - System info: None 
+[21/10/2021 14:43:29] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 14:43:29] - [INFO ] - Application Ended. 
+[21/10/2021 14:43:29] - [INFO ] - System info: None 
+[21/10/2021 14:43:38] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 14:43:38] - [INFO ] - Application Ended. 
+[21/10/2021 14:43:38] - [INFO ] - System info: None 
+[21/10/2021 14:54:15] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 14:54:15] - [INFO ] - Application Ended. 
+[21/10/2021 14:54:15] - [INFO ] - System info: None 
+[21/10/2021 14:54:22] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 14:54:22] - [INFO ] - Application Ended. 
+[21/10/2021 14:54:22] - [INFO ] - System info: None 
+[21/10/2021 14:54:40] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 14:54:40] - [INFO ] - Application Ended. 
+[21/10/2021 14:54:40] - [INFO ] - System info: None 
+[21/10/2021 14:55:09] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 14:55:09] - [INFO ] - Application Ended. 
+[21/10/2021 14:55:09] - [INFO ] - System info: None 
+[21/10/2021 14:55:12] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 14:55:12] - [INFO ] - Application Ended. 
+[21/10/2021 14:55:12] - [INFO ] - System info: None 
+[21/10/2021 14:55:16] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 14:55:16] - [INFO ] - Application Ended. 
+[21/10/2021 14:55:16] - [INFO ] - System info: None 
+[21/10/2021 14:55:44] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 14:55:44] - [INFO ] - Application Ended. 
+[21/10/2021 14:55:44] - [INFO ] - System info: None 
+[21/10/2021 14:55:47] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 14:55:47] - [INFO ] - Application Ended. 
+[21/10/2021 14:55:47] - [INFO ] - System info: None 
+[21/10/2021 14:56:45] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 14:56:45] - [INFO ] - Application Ended. 
+[21/10/2021 14:56:45] - [INFO ] - System info: None 
+[21/10/2021 15:08:21] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 15:08:21] - [INFO ] - Application Ended. 
+[21/10/2021 15:08:21] - [INFO ] - System info: None 
+[21/10/2021 15:12:38] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 15:12:38] - [INFO ] - Application Ended. 
+[21/10/2021 15:12:38] - [INFO ] - System info: None 
+[21/10/2021 15:13:41] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 15:13:41] - [INFO ] - Application Ended. 
+[21/10/2021 15:13:41] - [INFO ] - System info: None 
+[21/10/2021 15:14:00] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 15:14:00] - [INFO ] - Application Ended. 
+[21/10/2021 15:14:00] - [INFO ] - System info: None 
+[21/10/2021 15:17:40] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 15:17:40] - [INFO ] - Application Ended. 
+[21/10/2021 15:17:40] - [INFO ] - System info: None 
+[21/10/2021 15:17:52] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 15:17:52] - [INFO ] - Application Ended. 
+[21/10/2021 15:17:52] - [INFO ] - System info: None 
+[21/10/2021 15:18:00] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 15:18:00] - [INFO ] - Application Ended. 
+[21/10/2021 15:18:00] - [INFO ] - System info: None 
+[21/10/2021 15:18:02] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 15:18:02] - [INFO ] - Application Ended. 
+[21/10/2021 15:18:02] - [INFO ] - System info: None 
+[21/10/2021 15:18:15] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 15:18:15] - [INFO ] - Application Ended. 
+[21/10/2021 15:18:15] - [INFO ] - System info: None 
+[21/10/2021 15:18:19] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 15:18:19] - [INFO ] - Application Ended. 
+[21/10/2021 15:18:19] - [INFO ] - System info: None 
+[21/10/2021 15:18:26] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 15:18:26] - [INFO ] - Application Ended. 
+[21/10/2021 15:18:26] - [INFO ] - System info: None 
+[21/10/2021 15:18:28] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 15:18:28] - [INFO ] - Application Ended. 
+[21/10/2021 15:18:28] - [INFO ] - System info: None 
+[21/10/2021 15:18:35] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 15:18:35] - [INFO ] - Application Ended. 
+[21/10/2021 15:18:35] - [INFO ] - System info: None 
+[21/10/2021 15:20:04] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 15:20:04] - [INFO ] - Application Ended. 
+[21/10/2021 15:20:04] - [INFO ] - System info: None 
+[21/10/2021 15:20:11] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 15:20:11] - [INFO ] - Application Ended. 
+[21/10/2021 15:20:11] - [INFO ] - System info: None 
+[21/10/2021 15:20:20] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 15:20:20] - [INFO ] - Application Ended. 
+[21/10/2021 15:20:20] - [INFO ] - System info: None 
+[21/10/2021 15:20:43] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 15:20:43] - [INFO ] - Application Ended. 
+[21/10/2021 15:20:43] - [INFO ] - System info: None 
+[21/10/2021 15:20:48] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 15:20:49] - [INFO ] - Application Ended. 
+[21/10/2021 15:20:49] - [INFO ] - System info: None 
+[21/10/2021 16:08:43] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 16:08:43] - [INFO ] - Application Ended. 
+[21/10/2021 16:08:43] - [INFO ] - System info: None 
+[21/10/2021 16:08:45] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 16:08:45] - [INFO ] - Application Ended. 
+[21/10/2021 16:08:45] - [INFO ] - System info: None 
+[21/10/2021 16:11:38] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 16:11:38] - [INFO ] - Application Ended. 
+[21/10/2021 16:11:38] - [INFO ] - System info: None 
+[21/10/2021 16:12:16] - [INFO ] - Init Application, reading arguments. 
+[21/10/2021 16:12:16] - [INFO ] - Application Ended. 
+[21/10/2021 16:12:16] - [INFO ] - System info: None 

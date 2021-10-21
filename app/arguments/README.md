@@ -1,0 +1,2 @@
+Here you create the arguments to use and need add each argument to config file for that, in config/argument.py
+The arguments you need to create cannot be called like the ones that exist in the core of the application
